@@ -1,0 +1,190 @@
+.topright
+{
+display: flex;
+justify-content: flex-end;
+justify-content: right;
+align-items: center;
+padding: 0 8px;
+margin-right: 10px;
+}
+a
+{
+margin-right: 10px;
+text-decoration: none;
+color: black;
+}
+a:hover
+{
+text-decoration: underline;
+}
+
+.gb_Ve
+{
+width : 30px;
+height : 30px;
+display: flex;
+justify-content: flex-end;
+justify-content: right;
+align-items: center;
+padding: 0 8px;
+margin-right: 10px;}
+
+.Connexion
+{
+font-weight: 500;
+font-size: 14px;
+letter-spacing: 0.25px;
+line-height: 16px;
+margin-left: 10px;
+margin-right: 8px;
+min-width: 96px;
+padding: 9px 23px;
+vertical-align: middle;
+background-color: #1a73e8;
+border-style: none;
+color: white;
+}
+
+.Center
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 150px;
+}
+
+.logo
+{
+margin-bottom:-5px;
+}
+
+.Recherche
+{
+text-align: center;
+margin-top: 60px;
+border-radius: 18px;
+width: 500px;
+height: 40px;
+border: 1px solid;
+color: #d1d1d1;
+outline-color: #d1d1d1;
+display: flex;
+justify-content: space-between
+
+}
+
+.micro
+{
+width : 18px;
+height : 18px;
+display: flex;
+justify-content: flex-end;
+justify-content: right;
+align-items: center;
+padding: 0 8px;
+margin-left: 450px;
+margin-top: -30px;
+  }
+
+.loupe
+{
+width : 20px;
+height : 20px;
+display: flex;
+justify-content: flex-end;
+justify-content: right;
+align-items: center;
+padding: 0 8px;
+margin-right: 450px;
+margin-top: -18px;
+}
+
+.Button_center
+{
+ display: flex;
+ justify-content: flex-end;
+ justify-content: center;
+ align-items: center;
+ padding: 0 8px;
+ margin-right: 10px;
+ margin-top: 30px;
+ background color: : #f8f9fa;
+}
+
+
+.jaidelachance
+{
+margin: 10px;
+background: #f8f9fa;
+width : 150px;
+height : 30px;
+border: none;
+font-size: 15px;
+}
+
+.RechercheGoogle
+{
+margin: 10px;
+background: #f8f9fa;
+width : 150px;
+height : 30px;
+border: none;
+font-size: 15px;
+}
+
+.footer
+{
+background:#f2f2f2;
+position: absolute;
+bottom: 51px;
+margin-left: 0px;
+width:100%;
+padding-top:10px;
+height:50px;
+font-size: 15px;
+margin-left:-8px;
+vertical-align: middle;
+}
+
+
+.France
+{
+margin-left: 10px;
+font-size: 22px;
+margin-top: 2px;
+}
+
+.footer2
+{
+background:#f2f2f2;
+position: absolute;
+bottom: 70px;
+margin-left: 0px;
+width:100%;
+padding-top:10px;
+height:50px;
+font-size: 20px;
+margin-left:-8px;
+display: flex;
+margin-bottom: -80px;
+color: #868a8e;
+justify-content: space-between;
+}
+
+.apropos
+{
+margin-left: 10px;
+}
+
+.feuille
+{
+margin-right: 0px;
+width: 15px;
+height: 15px;
+padding: 0 8px;
+}
+
+.Neutre
+{
+  margin-left: -20px;
+}
